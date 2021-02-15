@@ -4,8 +4,10 @@ I am a Hydrogeologist in [Environmental Consulting Business](https://www.linkedi
 
 ### Education
 
-- Master in Hydrologic Science
-- Bachelor in Water Resources Engineering
+- **Master** in _Hydrologic Science - UNL_
+- **Bachelor** in _Water Resource Engineering - Chang'An_
+
+![](https://ucomm.unl.edu/images/brand-book/Our-marks/nebraska-lockup-bigleft-nright.jpg)
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
