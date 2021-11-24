@@ -1,7 +1,7 @@
 ## Jack Zhaowei Wang
 
-I am a Hydrogeologist in [Environmental Consulting Business](https://www.linkedin.com/in/zhaowei-jack-wang-65205146/). 
-I am a Data Enthusiast.
+-I am a Hydrogeologist in [Environmental Consulting Business](https://www.linkedin.com/in/zhaowei-jack-wang-65205146/). 
+-I am a Data Enthusiast.
 
 ### Education
 
