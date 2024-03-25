@@ -1,6 +1,6 @@
 ## J Wang
 
--I am a Hydrogeologist in [Environmental Consulting Business](https://www.linkedin.com/in/zhaowei-jack-wang-65205146/). \
+-I am a Hydrogeologist and groundwater modeler.
 -I am a Data Enthusiast.
 
 ### Education
@@ -14,9 +14,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on environmental restoration projects
+- 🔭 I’m currently working on lithium brine extraction project
 - 🌱 I’m currently learning ML
-- 👯 I’m looking to collaborate on data analysis/geospatial analysis projects
+- 👯 I’m looking to collaborate on solving problems that involves hydrogeology.
 - ⚡ Fun fact: I am hiphop popping dancer
 
 <!--
