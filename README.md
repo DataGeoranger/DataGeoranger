@@ -1,7 +1,6 @@
 ## J Wang
 
 -I am a Hydrogeologist and groundwater modeler.
--I am a Data Enthusiast.
 
 ### Education
 
